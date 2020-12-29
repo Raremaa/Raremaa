@@ -13,7 +13,7 @@ SCSS       🕓 42m    ▊░░░░░░░░░░░░░░░░░░
 <!-- waka-box end -->
 
 ### My Blog: https://www.masaiqi.com
-### Connect me:masaiqi.com@gmail.com
+### Connect me: masaiqi.com@gmail.com
 
 <!--
 **Raremaa/Raremaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
