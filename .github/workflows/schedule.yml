@@ -1,4 +1,4 @@
-name: Update wakatime stats
+name: Update wakatime statshttps://github.com/Raremaa/Raremaa/blob/main/.github/workflows/blank.yml
 
 on:
   push:
