@@ -4,7 +4,7 @@
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/01c8d4e646ad9bbb0b6c857a1c04e310" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Java       🕓 11h2m ███████████████████▎░░░░░░░░ 68.9%
+Java       🕓 11h2m ███████████████████▎░░░░░░░░ 68.8%
 Python     🕓 2h36m ████▌░░░░░░░░░░░░░░░░░░░░░░░ 16.2%
 SQL        🕓 57m   █▋░░░░░░░░░░░░░░░░░░░░░░░░░░  6.0%
 XML        🕓 49m   █▍░░░░░░░░░░░░░░░░░░░░░░░░░░  5.2%
