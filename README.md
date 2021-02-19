@@ -4,7 +4,11 @@
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/01c8d4e646ad9bbb0b6c857a1c04e310" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Java       🕓 3h27m ██████████████████▎░░░░░░░░░ 65.5%
+YAML       🕓 58m   █████▏░░░░░░░░░░░░░░░░░░░░░░ 18.5%
+XML        🕓 36m   ███▏░░░░░░░░░░░░░░░░░░░░░░░░ 11.5%
+Other      🕓 8m    ▋░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.5%
+Docker     🕓 5m    ▌░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.8%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
