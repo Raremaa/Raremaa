@@ -4,11 +4,11 @@
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/01c8d4e646ad9bbb0b6c857a1c04e310" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Java       🕓 7h20m ██████████████████████░░░░░░ 78.6%
-XML        🕓 52m   ██▋░░░░░░░░░░░░░░░░░░░░░░░░░  9.4%
-YAML       🕓 34m   █▋░░░░░░░░░░░░░░░░░░░░░░░░░░  6.1%
-Other      🕓 10m   ▌░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.9%
-SQL        🕓 9m    ▍░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.6%
+Java       🕓 6h25m ███████████████████████▏░░░░ 82.8%
+XML        🕓 38m   ██▎░░░░░░░░░░░░░░░░░░░░░░░░░  8.3%
+Other      🕓 10m   ▌░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.1%
+SQL        🕓 9m    ▌░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.0%
+Properties 🕓 9m    ▌░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
