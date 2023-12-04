@@ -11,13 +11,9 @@
 <td valign="top" width="50%">
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/Raremaa/01c8d4e646ad9bbb0b6c857a1c04e310" target="_blank">📊 Weekly development breakdown</a>
+#### <a href="https://gist.github.com/01c8d4e646ad9bbb0b6c857a1c04e310" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Go              🕓 32h17m ████████████████████▎░ 92.2%
-XML             🕓 1h8m   ▋░░░░░░░░░░░░░░░░░░░░░  3.2%
-Other           🕓 52m    ▌░░░░░░░░░░░░░░░░░░░░░  2.5%
-PHP             🕓 23m    ▏░░░░░░░░░░░░░░░░░░░░░  1.1%
-CSV             🕓 7m     ░░░░░░░░░░░░░░░░░░░░░░  0.4%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
