@@ -24,13 +24,13 @@ Still Gathering Statistics...
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/Raremaa/c39ee669a9963ccf22cc6a72e7d184a6" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/c39ee669a9963ccf22cc6a72e7d184a6" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 1548 hrs 17 mins
-🎮 Apex Legends                     🕘 403 hrs 59 mins
-💻 Wallpaper Engine                 🕘 113 hrs 3 mins
-🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 34 hrs 40 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 457 hrs 26 mins
+🎮 Monster Hunter: World            🕘 314 hrs 23 mins
+🎮 Diablo® IV                       🕘 96 hrs 15 mins
+🤖 Borderlands 2                    🕘 39 hrs 48 mins
+🎮 鬼谷八荒 Tale of Immortal        🕘 37 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
