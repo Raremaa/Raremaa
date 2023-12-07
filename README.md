@@ -32,7 +32,7 @@ Properties      🕓 12m   ▎░░░░░░░░░░░░░░░░�
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 457 hrs 26 mins
 🎮 Monster Hunter: World            🕘 314 hrs 23 mins
-🎮 Diablo® IV                       🕘 101 hrs 3 mins
+🎮 Diablo® IV                       🕘 101 hrs 56 mins
 🤖 Borderlands 2                    🕘 39 hrs 48 mins
 🎮 鬼谷八荒 Tale of Immortal        🕘 37 hrs 24 mins
 ```
