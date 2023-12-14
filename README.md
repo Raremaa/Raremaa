@@ -34,7 +34,7 @@ Java Properties 🕓 10m   ▏░░░░░░░░░░░░░░░░�
 🎮 Monster Hunter: World            🕘 314 hrs 23 mins
 🎮 Diablo® IV                       🕘 103 hrs 50 mins
 🤖 Borderlands 2                    🕘 39 hrs 48 mins
-🎮 鬼谷八荒 Tale of Immortal        🕘 37 hrs 24 mins
+🎮 MONSTER HUNTER RISE              🕘 38 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
