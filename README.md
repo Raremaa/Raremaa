@@ -33,7 +33,7 @@ Properties      🕓 3m     ░░░░░░░░░░░░░░░░░�
 🔫 Tom Clancy's Rainbow Six Siege   🕘 457 hrs 26 mins
 🎮 Monster Hunter: World            🕘 314 hrs 23 mins
 🎮 Diablo® IV                       🕘 103 hrs 50 mins
-🎮 MONSTER HUNTER RISE              🕘 58 hrs 5 mins
+🎮 MONSTER HUNTER RISE              🕘 59 hrs 6 mins
 🤖 Borderlands 2                    🕘 39 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
