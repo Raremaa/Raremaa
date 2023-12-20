@@ -31,9 +31,9 @@ Properties      🕓 4m     ░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/c39ee669a9963ccf22cc6a72e7d184a6" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 457 hrs 26 mins
-🎮 Monster Hunter: World            🕘 321 hrs 29 mins
+🎮 Monster Hunter: World            🕘 322 hrs 2 mins
 🎮 Diablo® IV                       🕘 103 hrs 50 mins
-🎮 MONSTER HUNTER RISE              🕘 63 hrs 34 mins
+🎮 MONSTER HUNTER RISE              🕘 64 hrs 4 mins
 🤖 Borderlands 2                    🕘 39 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
