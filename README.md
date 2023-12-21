@@ -32,7 +32,7 @@ Go              🕓 7m     ▏░░░░░░░░░░░░░░░░�
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 457 hrs 26 mins
 🎮 Monster Hunter: World            🕘 322 hrs 2 mins
-🎮 Diablo® IV                       🕘 103 hrs 50 mins
+🎮 Diablo® IV                       🕘 103 hrs 53 mins
 🎮 MONSTER HUNTER RISE              🕘 64 hrs 17 mins
 🤖 Borderlands 2                    🕘 39 hrs 48 mins
 ```
