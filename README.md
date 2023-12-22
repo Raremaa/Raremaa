@@ -33,7 +33,7 @@ GitIgnore file  🕓 9m     ▏░░░░░░░░░░░░░░░░�
 🔫 Tom Clancy's Rainbow Six Siege   🕘 457 hrs 26 mins
 🎮 Monster Hunter: World            🕘 329 hrs 39 mins
 🎮 Diablo® IV                       🕘 103 hrs 53 mins
-🎮 MONSTER HUNTER RISE              🕘 64 hrs 17 mins
+🎮 MONSTER HUNTER RISE              🕘 64 hrs 52 mins
 🤖 Borderlands 2                    🕘 39 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
