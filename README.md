@@ -31,7 +31,7 @@ GitIgnore file  🕓 9m     ▏░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/c39ee669a9963ccf22cc6a72e7d184a6" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 457 hrs 26 mins
-🎮 Monster Hunter: World            🕘 334 hrs 0 mins
+🎮 Monster Hunter: World            🕘 334 hrs 24 mins
 🎮 Diablo® IV                       🕘 103 hrs 53 mins
 🎮 MONSTER HUNTER RISE              🕘 64 hrs 52 mins
 🤖 Borderlands 2                    🕘 39 hrs 48 mins
