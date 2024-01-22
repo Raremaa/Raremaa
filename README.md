@@ -32,7 +32,7 @@ TOML     🕓 0s  ▎░░░░░░░░░░░░░░░░░░░�
 🎮 Monster Hunter: World            🕘 346 hrs 48 mins
 🎮 Diablo® IV                       🕘 103 hrs 53 mins
 🎮 MONSTER HUNTER RISE              🕘 64 hrs 52 mins
-🤖 Borderlands 2                    🕘 39 hrs 48 mins
+🎮 鬼谷八荒 Tale of Immortal        🕘 40 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
