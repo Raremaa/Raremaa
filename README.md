@@ -30,7 +30,7 @@ Markdown 🕓 0s █████████████████████
 🎮 Monster Hunter: World            🕘 346 hrs 48 mins
 🎮 Diablo® IV                       🕘 103 hrs 53 mins
 🎮 MONSTER HUNTER RISE              🕘 64 hrs 52 mins
-🎮 鬼谷八荒 Tale of Immortal        🕘 41 hrs 15 mins
+🎮 鬼谷八荒 Tale of Immortal        🕘 42 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
