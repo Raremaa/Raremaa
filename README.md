@@ -28,7 +28,7 @@ JSON 🕓 0s ██████████████████████�
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 457 hrs 26 mins
 🎮 Monster Hunter: World            🕘 346 hrs 48 mins
-🎮 Diablo® IV                       🕘 104 hrs 54 mins
+🎮 Diablo® IV                       🕘 105 hrs 54 mins
 🎮 MONSTER HUNTER RISE              🕘 64 hrs 52 mins
 🎮 鬼谷八荒 Tale of Immortal        🕘 43 hrs 57 mins
 ```
