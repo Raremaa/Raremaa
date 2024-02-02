@@ -34,7 +34,7 @@ CSS            🕓 0s  ▎░░░░░░░░░░░░░░░░░�
 🎮 Monster Hunter: World            🕘 346 hrs 48 mins
 🎮 Diablo® IV                       🕘 127 hrs 14 mins
 🎮 MONSTER HUNTER RISE              🕘 64 hrs 52 mins
-🎮 Baldur's Gate 3                  🕘 58 hrs 21 mins
+🎮 Baldur's Gate 3                  🕘 59 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
