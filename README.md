@@ -30,7 +30,7 @@ Still Gathering Statistics...
 🎮 Monster Hunter: World            🕘 346 hrs 48 mins
 🎮 Diablo® IV                       🕘 130 hrs 5 mins
 🎮 Baldur's Gate 3                  🕘 102 hrs 7 mins
-🎮 Overwatch® 2                     🕘 83 hrs 12 mins
+🎮 Overwatch® 2                     🕘 83 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
