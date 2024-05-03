@@ -30,7 +30,7 @@ Still Gathering Statistics...
 🎮 Monster Hunter: World            🕘 346 hrs 48 mins
 🎮 Diablo® IV                       🕘 130 hrs 5 mins
 🎮 Baldur's Gate 3                  🕘 102 hrs 7 mins
-🎮 DSX                              🕘 97 hrs 51 mins
+🎮 DSX                              🕘 98 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
