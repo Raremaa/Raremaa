@@ -28,7 +28,7 @@ Still Gathering Statistics...
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 465 hrs 29 mins
 🎮 Monster Hunter: World            🕘 346 hrs 48 mins
-🎮 Diablo® IV                       🕘 239 hrs 12 mins
+🎮 Diablo® IV                       🕘 240 hrs 12 mins
 🎮 DSX                              🕘 211 hrs 28 mins
 🎮 Baldur's Gate 3                  🕘 102 hrs 7 mins
 ```
