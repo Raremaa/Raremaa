@@ -29,8 +29,8 @@ Still Gathering Statistics...
 🔫 Tom Clancy's Rainbow Six Siege   🕘 465 hrs 29 mins
 🎮 Monster Hunter: World            🕘 347 hrs 47 mins
 🎮 Diablo® IV                       🕘 335 hrs 35 mins
-🎮 DSX                              🕘 238 hrs 59 mins
-🎮 Overwatch® 2                     🕘 186 hrs 38 mins
+🎮 DSX                              🕘 240 hrs 0 mins
+🎮 Overwatch® 2                     🕘 186 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
