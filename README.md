@@ -26,11 +26,11 @@ Python 🕓 0s █████████████████████�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/c39ee669a9963ccf22cc6a72e7d184a6" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege   🕘 465 hrs 29 mins
-🎮 Diablo® IV                       🕘 393 hrs 40 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 467 hrs 32 mins
+🎮 Diablo® IV                       🕘 394 hrs 38 mins
 🎮 Monster Hunter: World            🕘 347 hrs 47 mins
-🎮 DSX                              🕘 244 hrs 30 mins
-🎮 Overwatch® 2                     🕘 195 hrs 59 mins
+🎮 DSX                              🕘 245 hrs 47 mins
+🎮 Overwatch® 2                     🕘 209 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
