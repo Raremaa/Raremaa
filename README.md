@@ -31,7 +31,7 @@ Python 🕓 0s ███████▌░░░░░░░░░░░░░�
 🎮 Diablo® IV                       🕘 394 hrs 38 mins
 🎮 Monster Hunter: World            🕘 347 hrs 47 mins
 🎮 DSX                              🕘 245 hrs 47 mins
-🎮 Overwatch® 2                     🕘 209 hrs 11 mins
+🎮 Overwatch® 2                     🕘 209 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
