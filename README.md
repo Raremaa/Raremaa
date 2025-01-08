@@ -26,7 +26,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/c39ee669a9963ccf22cc6a72e7d184a6" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege   🕘 468 hrs 12 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 469 hrs 10 mins
 🎮 Diablo® IV                       🕘 394 hrs 38 mins
 🎮 Monster Hunter: World            🕘 347 hrs 47 mins
 🎮 DSX                              🕘 245 hrs 47 mins
