@@ -30,7 +30,7 @@ Still Gathering Statistics...
 🎮 Diablo® IV                       🕘 446 hrs 10 mins
 🎮 Monster Hunter: World            🕘 347 hrs 47 mins
 🎮 DSX                              🕘 245 hrs 47 mins
-🎮 Overwatch® 2                     🕘 209 hrs 12 mins
+🎮 Overwatch® 2                     🕘 209 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
